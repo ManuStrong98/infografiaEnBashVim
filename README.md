@@ -4,7 +4,7 @@
 
 * `pkg install git -y`
 * pkg install python
-* `git clone https://github.com/DeepSociety/wiki-termux`
+* `git clone https://github.com/ManuStrong98/infografiaEnBashVim.git`
 * `cd wiki-termux`
 * `bash wiki`
 
