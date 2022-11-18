@@ -13,6 +13,7 @@ try:
   os.system("bash wiki")
  else:
   print("\033[1;31m	[!]\033[1;39m Opción invalida > ",b)
-  os.system("bash source/comandos")
+  os.system("bash source/tutoriales")
 except KeyboardInterrupt:
  print("\033[1;39m\nCtrl c presionado")
+
