@@ -4,13 +4,18 @@ print("""
 	  .-.       
         .-'``(|||)
      ,`\ \    `-`. 
-    /   \ '``-.   `     \033[1;31m[ \033[1;39m1\033[1;31m ]\033[1;39m Mostrar todos los paquetes
-  .-.  ,       `___:    \033[1;31m[ \033[1;39m2\033[1;31m ]\033[1;39m Mostrar todos los paquetes instalados
- (:::) :        ___     \033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Mostrar descripción de los paquetes
-  `-`  `       ,   :    
-    \   / ,..-`   ,	\033[1;31m[ \033[1;39m99\033[1;31m ]\033[1;39m Volver al menú
-     `./ /    .-.` 
-        `-..-(   )
-              `-`
+    /   \ '``-.   `     \033[1;31m[ \033[1;39m1\033[1;31m ]\033[1;39m Vim es gratuito y de código abierto
+  .-.  ,       `___:    \033[1;31m[ \033[1;39m2\033[1;31m ]\033[1;39m Vim esta disponible en todos los SO
+ (:::) :        ___     \033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim esta muy buen documentado
+  `-`  `       ,   :    \033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim tiene una amplia comunidad
+    \   / ,..-`   ,	\033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim es exageradamente personalizable
+     `./ /    .-.` 	\033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim es increiblemente rapido
+        `-..-(   )	\033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim tiene soporte para todos los lenguajes
+              `-`	\033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim es muy popular en las herramientas de Linux
+				con esto me refiero que usan las funcionalidades de vim
+
+			\033[1;31m[ \033[1;39m3\033[1;31m ]\033[1;39m Vim es muy divertido :D
+
+			    \033[1;31m[ \033[1;39m99\033[1;31m ]\033[1;39m Volver al menú
 """)
 
