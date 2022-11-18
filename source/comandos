@@ -1,19 +1,21 @@
 clear
 python source/art/banner1
 echo -e "
-	Vim (del inglés Vi IMproved) es una versión mejorada del editor de texto Vi, presente en todos los sistemas UNIX. 
+	 ¿QUE ES VIM?
 
-	Vim es el editor de texto más poderosos del mundo.
+Vim (del inglés Vi IMproved) es una versión mejorada del editor de texto Vi, presente en todos los sistemas UNIX. 
 
-	Ha sido ampliamente utilizado durante casi 30 años debido a su facilidad de uso, flexibilidad y velocidad con la que permite a los usuarios explorar sus archivos.
+Vim es el editor de texto más poderosos del mundo.
 
-	A diferencia de un procesador de textos, Vim edita archivos en texto plano. Se utiliza principalmente para escribir programas.
+Ha sido ampliamente utilizado durante casi 30 años debido a su facilidad de uso, flexibilidad y velocidad con la que permite a los usuarios explorar sus archivos.
 
-	Al igual que su predecesor, Vi, Vim se caracteriza por su interfaz de usuario modal. Los usuarios se mueven y seleccionan texto en el "modo de comando", mientras que la edición se realiza en "modo de inserción". Los defensores de Vim dicen que este método es muy eficiente porque los comandos se encuentran principalmente en la fila de inicio del teclado.
+A diferencia de un procesador de textos, Vim edita archivos en texto plano. Se utiliza principalmente para escribir programas.
 
-	Vim permite un alto grado de personalización. Los usuarios pueden definir macros para personalizar sus asignaciones de teclas y automatizar las tareas de edición. También admite resaltado de sintaxis para la mayoría de los lenguajes de programación, incluidos C, Python y HTML.
+Al igual que su predecesor, Vi, Vim se caracteriza por su interfaz de usuario modal. Los usuarios se mueven y seleccionan texto en el "modo de comando", mientras que la edición se realiza en "modo de inserción". Los defensores de Vim dicen que este método es muy eficiente porque los comandos se encuentran principalmente en la fila de inicio del teclado.
 
-	Los usuarios de Vim también tienen una rivalidad con los usuarios de otro editor popular en sistemas Unix / Linux, Emacs. Esto se conoce como la "guerra de los editores".
+Vim permite un alto grado de personalización. Los usuarios pueden definir macros para personalizar sus asignaciones de teclas y automatizar las tareas de edición. También admite resaltado de sintaxis para la mayoría de los lenguajes de programación, incluidos C, Python y HTML.
+
+Los usuarios de Vim también tienen una rivalidad con los usuarios de otro editor popular en sistemas Unix / Linux, Emacs. Esto se conoce como la "guerra de los editores".
 
 			    \033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menú
 "

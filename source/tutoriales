@@ -1,6 +1,7 @@
 clear
 python source/art/banner1
 echo -e "
+SALIR DE VIM 
     antes que nada hay que saber que saber que estamos en el modo NORMAL, para salir de vim de la forma clasica tenemos que entrar al modo COMANDO, esto se 
     hace escribiendo dos puntos ":" seguido de "q"
 

@@ -1,6 +1,8 @@
 clear
 python source/art/banner1
 echo -e "
+MODOS
+
     Existen 6 modos en vim, pero solo mencionaremos las 4 principales
 	- modo INSERT
 	- modo NORMAL

@@ -1,6 +1,7 @@
 clear
 python source/art/b4
 echo "
+MOVIMIENTO EN EL TEXTO
 	como se dijo anteriormente, se puede mover dentro del archivo desde el modo NORMAL
 
 	** Para mover el cursor presione las teclas 'h', 'j', 'k', 'l' **

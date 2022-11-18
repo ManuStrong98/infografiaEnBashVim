@@ -1,6 +1,8 @@
 clear
 python source/art/banner3
 echo -e "
+ENTRAR A VIM
+
 	Para poder editar con Vim tienes que ejecutar 'nvim' seguido del nombre o nombre de archivos que quieras editar
 	for example:
 	    - nvim archivo.java

@@ -1,6 +1,8 @@
 clear
 python source/art/banner1
 echo -e "
+PLUGINS DE VIM
+
 	Los Plugins son complementos para ampliar las funcionalidades de vim.
 
 	Para poder instalar Plugin, primero tienes que descargar un administrador de Plugins de vim

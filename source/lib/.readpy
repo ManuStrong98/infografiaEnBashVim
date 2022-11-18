@@ -11,7 +11,7 @@ try:
 	elif a == "4" or a == "04" or a == "tutoriales":
 		os.system("bash source/tutoriales")
 	elif a == "99" or a == "quit" or a == "exit":
-		os.system("echo Hasta luego")	  
+		os.system("echo Hasta luego uwu")	  
 		exit()
 		         
 	elif a == "5" or a == "05" or a == "cursos":
