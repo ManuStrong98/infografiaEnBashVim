@@ -1,7 +1,7 @@
 clear
 python source/art/banner1
 echo -e "
-	 ¿QUE ES VIM?
+	 ¿QUÉ ES VIM?
 
 Vim (del inglés Vi IMproved) es una versión mejorada del editor de texto Vi, presente en todos los sistemas UNIX. 
 
