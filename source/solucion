@@ -1,0 +1,36 @@
+clear
+python source/art/b4
+echo "
+	como se dijo anteriormente, se puede mover dentro del archivo desde el modo NORMAL
+
+	** Para mover el cursor presione las teclas 'h', 'j', 'k', 'l' **
+
+          ↑
+          k         Hint: La tecla 'h'{normal} está a la izquierda y se mueve hacia la izquierda
+     ← h    l →      	  La tecla 'l'{normal} está a la derecha y se mueve a la derecha.
+         j                La tecla 'j'{normal} parece una flecha hacia abajo.
+         ↓
+
+	- gg – Ponerse al inicio del fichero.
+	- G – Ir a la última línea del fichero.
+	- Num+G – Ir a una línea determinada. Por ejemplo 14G llevaría el cursor a la línea 14.
+	- :set number – Hace que el editor muestre el número de las líneas.
+	- $ – Ir al final de la línea.
+	- 0 – Ir al principio de la línea
+
+	para scrollear la pantalla: 
+
+	- Control + y: Mueve la pantalla una línea hacia arriba
+	- Control + e Mueve la pantalla una línea hacia abajo
+	- Control + u: Mueve la pantalla hacia arriba ½ página
+	- Control + d: Mueve la pantalla hacia abajo ½ página
+	- Control + b: Mueve la pantalla hacia una página entera hacia arriba
+	- Control + f: Mueve la pantalla hacia una página entera hacia abajo
+
+"
+echo -e "					\033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menu
+"
+
+python source/lib/.readpy5
+
+

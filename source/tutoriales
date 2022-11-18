@@ -1,0 +1,18 @@
+clear
+python source/art/banner1
+echo -e "
+    antes que nada hay que saber que saber que estamos en el modo NORMAL, para salir de vim de la forma clasica tenemos que entrar al modo COMANDO, esto se 
+    hace escribiendo dos puntos ":" seguido de "q"
+
+    hay muchas formas de salir de vim, aqui mencionaremos algunas: 
+	de esta forma se sale de vim cuando se haya guardado los cambios o no se hizo ninguna edición	
+	- :q
+	para salir guardar:
+	- :q!
+	para salir de todo vim:
+	- :qa
+
+		    \033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menu
+"
+
+python source/lib/.readpy3

@@ -1,0 +1,13 @@
+clear
+python source/art/banner3
+echo -e "
+	Para poder editar con Vim tienes que ejecutar 'nvim' seguido del nombre o nombre de archivos que quieras editar
+	for example:
+	    - nvim archivo.java
+	o si quieres editar varios archivos al mismo tiempo:
+	    - nvim archivo.java archivo2.java
+
+		    	\033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menú
+"
+
+python source/lib/.readpy2

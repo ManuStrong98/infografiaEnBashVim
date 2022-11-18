@@ -1,0 +1,187 @@
+
+
+Fri Nov 18 04:59:42 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.14.0-9parrot1-amd64 (#1 SMP Debian 5.14.9-9parrot1 (2021-10-26)) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.46.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+User is not root!
+Hard disk list
+
+
+TestDisk exited normally.
+Using locale 'es_ES.UTF-8'.
+
+
+Fri Nov 18 04:59:42 2022
+Command line: TestDisk /debug
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.14.0-9parrot1-amd64 (#1 SMP Debian 5.14.9-9parrot1 (2021-10-26)) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.46.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+/dev/sda: LBA, LBA48 support
+/dev/sda: size       976773168 sectors
+/dev/sda: user_max   976773168 sectors
+/dev/sdb: LBA, LBA48 support
+/dev/sdb: size       1953525168 sectors
+/dev/sdb: user_max   1953525168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop1 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop2 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop3 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop4 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop5 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop6 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop7 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 500 GB / 465 GiB - CHS 60801 255 63, sector size=512 - CT500MX500SSD1, S/N:1922E20789B1, FW:M3CR023
+Disk /dev/sdb - 1000 GB / 931 GiB - CHS 121601 255 63, sector size=512 - MM1000GEFQV, S/N:W4708NC6, FW:HPG5
+Disk /dev/sdc - 250 GB / 233 GiB - CHS 30448 255 63, sector size=512 - SanDisk Ultra USB 3.0, FW:1.00
+Disk /dev/loop0 - 4269 MB / 4071 MiB - 8338240 sectors (RO), sector size=512
+
+Partition table type (auto): Intel
+Disk /dev/sdc - 250 GB / 233 GiB - SanDisk Ultra USB 3.0
+Partition table type: None
+
+Interface Advanced
+   P Unknown                  0   0  1 30448 215 39  489160704
+Change partition type:
+   P NTFS                     0   0  1 30448 215 39  489160704
+SIGINT detected! TestDisk has been killed.
+
+
+Fri Nov 18 05:05:15 2022
+Command line: TestDisk
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.14.0-9parrot1-amd64 (#1 SMP Debian 5.14.9-9parrot1 (2021-10-26)) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.46.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+User is not root!
+Hard disk list
+
+
+TestDisk exited normally.
+Using locale 'es_ES.UTF-8'.
+
+
+Fri Nov 18 05:05:15 2022
+Command line: TestDisk /debug
+
+TestDisk 7.1, Data Recovery Utility, July 2019
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Linux, kernel 5.14.0-9parrot1-amd64 (#1 SMP Debian 5.14.9-9parrot1 (2021-10-26)) x86_64
+Compiler: GCC 9.2
+ext2fs lib: 1.46.2, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.1
+/dev/sda: LBA, LBA48 support
+/dev/sda: size       976773168 sectors
+/dev/sda: user_max   976773168 sectors
+/dev/sdb: LBA, LBA48 support
+/dev/sdb: size       1953525168 sectors
+/dev/sdb: user_max   1953525168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop1 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop2 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop3 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop4 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop5 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop6 - 0 B - 0 sectors, sector size=512
+Warning: can't get size for Disk /dev/loop7 - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 500 GB / 465 GiB - CHS 60801 255 63, sector size=512 - CT500MX500SSD1, S/N:1922E20789B1, FW:M3CR023
+Disk /dev/sdb - 1000 GB / 931 GiB - CHS 121601 255 63, sector size=512 - MM1000GEFQV, S/N:W4708NC6, FW:HPG5
+Disk /dev/sdc - 250 GB / 233 GiB - CHS 30448 255 63, sector size=512 - SanDisk Ultra USB 3.0, FW:1.00
+Disk /dev/loop0 - 4269 MB / 4071 MiB - 8338240 sectors (RO), sector size=512
+
+Partition table type (auto): Intel
+Disk /dev/sdc - 250 GB / 233 GiB - SanDisk Ultra USB 3.0
+Partition table type: Humax
+
+Analyse Disk /dev/sdc - 250 GB / 233 GiB - CHS 30448 255 63
+0000 8efac033 bcd08ed8 e6897c00 c08e5706   ...3......|...W.
+0010 00bffcfb 0100b906 1feaa5f3 52000006   ............R...
+0020 bb41b452 c93155aa cdf9f630 81137213   .A.R.1U....0..r.
+0030 75aa55fb 73e9d10d 06c76609 42b4068d   u.U.s.....f.B...
+0040 b45a15eb 8313cd08 0f513fe1 f740c6b6   .Z.......Q?..@..
+0050 665052e1 9966c031 e80066e8 694d0135   fPR..f.1..f.iM.5
+0060 6e697373 706f2067 74617265 20676e69   nisspo gtare gni
+0070 74737973 0d2e6d65 6660660a 00bbd231   tsys..mef`f....1
+0080 6652667c 6a530650 89106a01 36f766e6   fRf|jS.P..j.6.f.
+0090 e4c07bf4 88e18806 36f692c5 c6887bf8   ..{.....6.....{.
+00A0 b841e108 168a0201 13cd7bfa 6610648d   .A........{.f.d.
+00B0 c4e8c361 7dbebeff b907bebf a5f30020   ...a}.......... 
+00C0 896066c3 07bebbe5 310004b9 f65153c0   .`f.....1....QS.
+00D0 03748007 83de8940 f3e210c3 795b7448   .t.....@....y[tH
+00E0 8a5b5939 0f3c0447 7f240674 2275053c   .[Y9.<.G.$.t"u.<
+00F0 08478b66 14568b66 66d00166 0375d221   .G.f.V.ff..f.u.!
+0100 e8c28966 0372ffac 66ffb6e8 e81c468b   ...f.r..f.....F.
+0110 c383ffa0 66cce210 76e8c361 6c754d00   ....f...v..aluM.
+0120 6c706974 63612065 65766974 72617020   lpitca eevitrap 
+0130 69746974 2e736e6f 8b660a0d 03660844   itit.sno.f...f.D
+0140 89661c46 30e80844 662772ff 7c003e81   .f.F0..Df'r.|.>.
+0150 42534658 83660975 1ce804c0 811372ff   BSFX.f.u......r.
+0160 557dfe3e f2850faa 7bfabcfe fa075f5a   U}.>....{....._Z
+0170 1ee8e4ff 65704f00 69746172 7320676e   ....epO.itars gn
+0180 65747379 6f6c206d 65206461 726f7272   etsyol me darorr
+0190 5e0a0d2e 8a0eb4ac b304623e 3c10cd07   ^.........b><...
+01A0 cdf1750a fdebf418 00000000 00000000   ..u.............
+01B0 00000000 00000000 0039eb35 20800000   .........9.5 ...
+01C0 fe0c0021 0800ffff f8340000 fe0001a7   ...!.....4......
+01D0 fe83ffff 0034ffff ffc501a8 00001b7f   .....4..........
+01E0 00000000 00000000 00000000 00000000   ................
+01F0 00000000 00000000 00000000 aa550000   .............U..
+Current partition structure:
+Bad HUMAX partition
+
+search_part()
+Disk /dev/sdc - 250 GB / 233 GiB - CHS 30448 255 63
+FAT32 at 0/32/33
+FAT1 : 32-3422
+FAT2 : 3423-6813
+start_rootdir : 6814 root cluster : 2
+Data : 6814-27785245
+sectors : 27785268
+cluster_size : 64
+no_of_cluster : 434038 (2 - 434039)
+fat_length 3391 calculated 3391
+
+FAT32 at 0/32/33
+FAT: cluster=2(0x2), pos=8862
+     Partition                   2048   27787315   27785268 [EFI System Partition] [PARROT SECU]
+     FAT32, blocksize=32768, 14 GB / 13 GiB
+
+recover_EXT2: s_block_group_nr=0/1759, s_mnt_count=111/4294967295, s_blocks_per_group=32768, s_inodes_per_group=2048
+recover_EXT2: s_blocksize=4096
+recover_EXT2: s_blocks_count 57671672
+recover_EXT2: part_size 461373376
+Filesystem created: Sun Aug 21 15:57:49 2022
+Last mount time:    Thu Nov 17 18:53:56 2022
+     Partition               27787316  489160691  461373376 [persistence]
+     ext3 blocksize=4096 Large_file Sparse_SB Recover, 236 GB / 219 GiB
+
+Results
+   P Partition                   2048   27787315   27785268 [EFI System Partition] [PARROT SECU]
+     FAT32, blocksize=32768, 14 GB / 13 GiB
+   P Partition               27787316  489160691  461373376 [persistence]
+     ext3 blocksize=4096 Large_file Sparse_SB Recover, 236 GB / 219 GiB
+
+Hint for advanced users: dmsetup may be used if you prefer to avoid rewriting the partition table for the moment:
+echo "0 27785268 linear /dev/sdc 2048" | dmsetup create test0
+echo "0 461373376 linear /dev/sdc 27787316" | dmsetup create test1
+
+interface_write()
+ 0 P Partition                   2048   27787315   27785268 [EFI System Partition] [PARROT SECU]
+ 1 P Partition               27787316  489160691  461373376 [persistence]
+simulate write!
+
+TestDisk exited normally.

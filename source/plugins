@@ -1,0 +1,38 @@
+clear
+python source/art/banner1
+echo -e "
+	Los Plugins son complementos para ampliar las funcionalidades de vim.
+
+	Para poder instalar Plugin, primero tienes que descargar un administrador de Plugins de vim
+	para poder hacerlo ejecuta este comando>
+	    -  curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+	    (asegurate de tener el comando git instalado)
+
+	despues escribe en el archivo '~/.config/nvim/init.vim' todo esto:
+	    - call plug#begin('~/.config/nvim/plugged')
+	    - call plug#end()
+
+	entre esas lineas podras instalar todos los plugins que quieras, ahora instalaremos 
+	el Plugin para autocompletar corchetes, parentesis, brackets, etc
+	    -     Plug 'chun-yang/auto-pairs'
+
+	si hacemos un cat en el '~/.config/nvim/init.vim' tendremos el siguiente output:
+
+		call plug#begin('~/.config/nvim/plugged')
+		   Plug 'chun-yang/auto-pairs'
+		call plug#end()
+
+	para poder instalarlo tendremos que salir de vim (:q), volver a entrar y escribir el comando
+	    - :PlugInstall
+	se te abrira una ventana donde se vera que se esta descargando
+	despues vuelve a salir de vim y vuelve a entrar, ahora podras disfrutar del plugin
+	
+	una lista de plugins que te puede interesar estan en este link:
+	    https://www.tabnine.com/blog/top-vim-plugins/
+
+		    \033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menu
+"
+
+python source/lib/.readpy6
+

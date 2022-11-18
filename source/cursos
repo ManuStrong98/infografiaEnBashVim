@@ -1,0 +1,35 @@
+clear
+python source/art/banner1
+echo -e "
+    Existen 6 modos en vim, pero solo mencionaremos las 4 principales
+	- modo INSERT
+	- modo NORMAL
+	- modo COMANDO
+	- modo Visual
+
+    modo INSERT: En este modo seremos capaz de insertar texto
+	
+    modo NORMAL: El modo predeterminado con el que se abre Vim es el modo Normal. 
+		 El modo Normal se utiliza para realizar acciones como navegación,
+		 sustitución de texto, cortar, copiar, pegar, eliminar, etc. 
+    modo COMANDO: Aqui podremos escribir comando existentes en vim o comandos personalizados; por ejemplo:
+		    - :q
+		    - :ls
+		    - :tabnew
+		    - :echo
+		    - :call
+    modo Visual:  Se utiliza para seleccionar texto con las teclas de flecha para que se puedan realizar varias operaciones (como cortar, copiar, pegar, eliminar, etc.) en el texto seleccionado.
+
+
+    ¿COMO ENTRO DE UN MODO A OTRO MODO?
+	- para entrar del modo NORMAL a INSERT presione la tecla: i
+	- del modo INSERT a NORMAL: Esc
+	- de NORMAL a VISUAL: v
+	- de VISUAL a NORMAL: Esc
+	- de NORMAL a COMANDO: :
+	- de COMANDO a NORMAL: Esc
+
+		    \033[1;31m[\033[1;39m 99\033[1;31m ] \033[1;39mVolver al menu
+"
+
+python source/lib/.readpy4
