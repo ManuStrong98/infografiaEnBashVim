@@ -1,7 +1,0 @@
-pinguino:
-    1
-    2
-    3 source/art/banner0
-	menu (solo es un print)
-    4 source/lib/.readpy
-	echo -p
